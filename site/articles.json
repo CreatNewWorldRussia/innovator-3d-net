@@ -7,8 +7,17 @@
     "category": "Настольные игры",
     "published": "2026-10-04T10:17:04.454Z",
     "path": "articles/pervyy-igrovoy-vecher/index.html",
-    "images": [],
-    "rssEligible": true
+    "images": [
+      {
+        "path": "articles/pervyy-igrovoy-vecher/illustration.png",
+        "mimeType": "image/png",
+        "size": 2349296,
+        "alt": "Компания слушает объяснение настольной игры",
+        "caption": "Перед первой партией полезно договориться о формате встречи."
+      }
+    ],
+    "rssEligible": true,
+    "modified": "2026-10-04T10:31:34.658Z"
   },
   {
     "id": "rss-launch-20261004-pauzy-mezhdu-hodami",
@@ -18,8 +27,17 @@
     "category": "Настольные игры",
     "published": "2026-10-04T10:17:03.454Z",
     "path": "articles/pauzy-mezhdu-hodami/index.html",
-    "images": [],
-    "rssEligible": true
+    "images": [
+      {
+        "path": "articles/pauzy-mezhdu-hodami/illustration.png",
+        "mimeType": "image/png",
+        "size": 2356491,
+        "alt": "Игровые компоненты и песочные часы на столе",
+        "caption": "Удобная раскладка помогает убрать лишние остановки."
+      }
+    ],
+    "rssEligible": true,
+    "modified": "2026-10-04T10:31:34.663Z"
   },
   {
     "id": "rss-launch-20261004-kooperativnaya-igra-komanda",
@@ -29,8 +47,17 @@
     "category": "Настольные игры",
     "published": "2026-10-04T10:17:02.454Z",
     "path": "articles/kooperativnaya-igra-komanda/index.html",
-    "images": [],
-    "rssEligible": true
+    "images": [
+      {
+        "path": "articles/kooperativnaya-igra-komanda/illustration.png",
+        "mimeType": "image/png",
+        "size": 2552205,
+        "alt": "Участники обсуждают совместный ход",
+        "caption": "В кооперативной игре важно оставить место решениям каждого участника."
+      }
+    ],
+    "rssEligible": true,
+    "modified": "2026-10-04T10:31:34.666Z"
   },
   {
     "id": "rss-launch-20261004-pamyatka-k-nastolke",
@@ -40,8 +67,17 @@
     "category": "Настольные игры",
     "published": "2026-10-04T10:17:01.454Z",
     "path": "articles/pamyatka-k-nastolke/index.html",
-    "images": [],
-    "rssEligible": true
+    "images": [
+      {
+        "path": "articles/pamyatka-k-nastolke/illustration.png",
+        "mimeType": "image/png",
+        "size": 2925864,
+        "alt": "Памятка, карточки и кубики",
+        "caption": "Памятка помогает быстро найти порядок действий."
+      }
+    ],
+    "rssEligible": true,
+    "modified": "2026-10-04T10:31:34.671Z"
   },
   {
     "id": "rss-launch-20261004-hranenie-nastolki",
@@ -51,8 +87,17 @@
     "category": "Настольные игры",
     "published": "2026-10-04T10:17:00.454Z",
     "path": "articles/hranenie-nastolki/index.html",
-    "images": [],
-    "rssEligible": true
+    "images": [
+      {
+        "path": "articles/hranenie-nastolki/illustration.png",
+        "mimeType": "image/png",
+        "size": 2786557,
+        "alt": "Компоненты настолки разложены по отдельным пакетам",
+        "caption": "Храните вместе компоненты, которые понадобятся одновременно."
+      }
+    ],
+    "rssEligible": true,
+    "modified": "2026-10-04T10:31:34.674Z"
   },
   {
     "id": "rss-launch-20261004-bumazhnyy-prototip",
@@ -62,8 +107,17 @@
     "category": "Настольные игры",
     "published": "2026-10-04T10:16:59.454Z",
     "path": "articles/bumazhnyy-prototip/index.html",
-    "images": [],
-    "rssEligible": true
+    "images": [
+      {
+        "path": "articles/bumazhnyy-prototip/illustration.png",
+        "mimeType": "image/png",
+        "size": 2344757,
+        "alt": "Бумажный прототип настольной игры",
+        "caption": "Для первого теста достаточно простых заменяемых компонентов."
+      }
+    ],
+    "rssEligible": true,
+    "modified": "2026-10-04T10:31:34.678Z"
   },
   {
     "id": "rss-launch-20261004-organayzer-izmereniya",
@@ -73,8 +127,17 @@
     "category": "3D-печать",
     "published": "2026-10-04T10:16:58.454Z",
     "path": "articles/organayzer-izmereniya/index.html",
-    "images": [],
-    "rssEligible": true
+    "images": [
+      {
+        "path": "articles/organayzer-izmereniya/illustration.png",
+        "mimeType": "image/png",
+        "size": 2477048,
+        "alt": "Печатные лотки для игры рядом с линейкой",
+        "caption": "Размеры коробки и компонентов стоит проверить до печати органайзера."
+      }
+    ],
+    "rssEligible": true,
+    "modified": "2026-10-04T10:31:34.682Z"
   },
   {
     "id": "rss-launch-20261004-testovaya-detal",
@@ -84,8 +147,17 @@
     "category": "3D-печать",
     "published": "2026-10-04T10:16:57.454Z",
     "path": "articles/testovaya-detal/index.html",
-    "images": [],
-    "rssEligible": true
+    "images": [
+      {
+        "path": "articles/testovaya-detal/illustration.png",
+        "mimeType": "image/png",
+        "size": 2023520,
+        "alt": "Небольшие пробные детали и измерительный инструмент",
+        "caption": "Пробная деталь помогает проверить конкретное соединение."
+      }
+    ],
+    "rssEligible": true,
+    "modified": "2026-10-04T10:31:34.685Z"
   },
   {
     "id": "rss-launch-20261004-udobnyy-igrovoy-stol",
@@ -95,8 +167,17 @@
     "category": "Игровая практика",
     "published": "2026-10-04T10:16:56.454Z",
     "path": "articles/udobnyy-igrovoy-stol/index.html",
-    "images": [],
-    "rssEligible": true
+    "images": [
+      {
+        "path": "articles/udobnyy-igrovoy-stol/illustration.png",
+        "mimeType": "image/png",
+        "size": 2615445,
+        "alt": "Подготовленный игровой стол с хорошим освещением",
+        "caption": "Оставьте каждому участнику удобный доступ к компонентам."
+      }
+    ],
+    "rssEligible": true,
+    "modified": "2026-10-04T10:31:34.689Z"
   },
   {
     "id": "rss-launch-20261004-dnevnik-igrovykh-vecherov",
@@ -106,8 +187,17 @@
     "category": "Игровая практика",
     "published": "2026-10-04T10:16:55.454Z",
     "path": "articles/dnevnik-igrovykh-vecherov/index.html",
-    "images": [],
-    "rssEligible": true
+    "images": [
+      {
+        "path": "articles/dnevnik-igrovykh-vecherov/illustration.png",
+        "mimeType": "image/png",
+        "size": 2541733,
+        "alt": "Дневник рядом с компонентами настольной игры",
+        "caption": "Короткие записи помогают вспомнить впечатления от встречи."
+      }
+    ],
+    "rssEligible": true,
+    "modified": "2026-10-04T10:31:34.693Z"
   },
   {
     "id": "[\"dzen-boardgames-conversation-20260927\",\"website\",\"CreatNewWorldRussia/innovator-3d-net\"]",
